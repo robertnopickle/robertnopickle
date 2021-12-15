@@ -1,1 +1,4 @@
-color: #555
+link:
+  dark: #fff
+  default: purple
+  hc_dark: blue
